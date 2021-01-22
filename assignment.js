@@ -60,5 +60,5 @@ function megaFriend(Name) {
     return longestWord;
   }
   
-  var word = megaFriend(["Noyon", "Arif", "Moni", "Amjad"]);
+  var word = megaFriend(["Noyon", "Arif", "Moni", "Amjadd"]);
   console.log(word);
